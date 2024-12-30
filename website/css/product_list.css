@@ -1,0 +1,18 @@
+#title{font-size: 3rem;  margin-left: 10px; margin-top:10px; font-style: italic; text-align: center;}
+#product_list{font-size: 3rem; margin-top:10px; font-style: italic; text-align: center;}
+form{text-align: center;}
+/*.form-register{ width: 600px; height: 200px; text-align: center; /*margin-left: 65vh;*/}*/
+.search_form{margin: auto; width: 1000px; height: 500px;}
+form input{width:100%;}
+form select{width:100%; font-size: 20px; box-sizing: border-box;}
+.search_btn{width:100px; font-weight: bold; font-size: 20px; margin-top: 20px;}
+.mybtn{width: 100px; padding-left: auto; padding-right: auto;}
+/*#board_list{text-align: center; font-size: 23px;}
+#board_list .col2 { width: 40px; margin-left: 35px;}
+#board_list .col3 { width: 300px; }*/
+.buttons{display: inline; width: 80px; margin-left: 95vh;}
+.buttons li {display: inline; padding-right: 20px;}
+ul li{
+	text-align: center;
+	border-bottom: 1px solid black;
+}

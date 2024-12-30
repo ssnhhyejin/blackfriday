@@ -1,0 +1,45 @@
+.table-sortable tbody tr {
+    cursor: move;
+}
+.array{
+   float: left;
+   margin: 0 20px;
+}
+
+.catagory{
+   float: left;
+   padding-right: 10px;
+   width: 170px;
+
+}
+.manage-text{
+   float: left;
+   width: 500px;
+   margin-left: 10px;
+}
+
+.text-center{
+   background-color: lightgrey;
+   text-align: center;
+}
+
+.form-register{
+   padding: 30px;
+}
+/* search box 커지는 원인 */
+
+.my-input {
+   border: 1px solid black;
+}
+
+select .form-control-size{
+   width: 70%;
+}
+
+.search_form .tbody{
+padding: 30px;
+}
+
+.search-size{
+   width: 50%;
+}

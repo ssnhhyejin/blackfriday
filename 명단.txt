@@ -1,0 +1,6 @@
+팀명 : Black Friday
+조원 : 신상우, 정해주, 이종훈, 신혜진
+역할 : 신상우-DB 설계, 로그인, 회원가입, 매니저 페이지(Order List, Customers, E-mail), 장바구니 기능 구현
+         이종훈-DB 설계, Product 페이지 Category 기능 구현, Product Page CSS,  마이페이지(Message) 기능 구현
+         정해주-전체 CSS와 UI디자인 구현
+         신혜진-DB 설계, Manager Page, Product List, 헤더 기능 기능 구현, 각각의 페이지별 CSS 구현과 보조 

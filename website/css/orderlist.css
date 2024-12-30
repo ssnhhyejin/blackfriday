@@ -1,0 +1,10 @@
+#board_box h3{border-bottom: inherit;}
+#board_list{width: 950px; border-top: 1px solid #516e7f; }
+#board_list li{padding: 10px 0; margin-right: 15px;}
+#board_list .ordercol1{width: 100px;}
+#board_list .ordercol2{width: 100px;}
+#board_list .ordercol3{width: 150px;}
+#board_list .ordercol4{width: 80px;}
+#board_list .ordercol5{width: 150px;}
+#board_list .ordercol6{width: 150px;}
+#board_list .ordercol7{width: 150px;}
